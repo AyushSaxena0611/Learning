@@ -86,11 +86,6 @@ I want to learn more about "CSS Grid" and "Bootstrap" and also want to learn mor
 
 
 
-## Author
-
-- Github Profile Link - [Saurabh13042004](https://github.com/Saurabh13042004)
-- Linkdin - [@saurabh-shukla](https://www.linkedin.com/in/saurabh-shukla-0b45b3224/)
-- Instagram - [@saurabh._shukla._](https://www.instragram.com/saurabh._shukla._ )
 
 
 
